@@ -1,0 +1,13 @@
+.text-white strong{
+    font-weight: 700;
+}
+.gallery-thumb:hover > img.attachment-post-thumbnail{
+    -webkit-transform: none !important;
+}
+.wp-pagenavi{
+    text-align: center;
+    margin: 50px 0;
+}
+.sub-menu .nav-link{
+    padding: 20px 10px !important;
+}
